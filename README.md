@@ -1,6 +1,6 @@
 # Banco de Dados Resilia
 
-Criando um banco de dados para o projeto do curso de Desenvolvimento Web da Resilia. 
+Criando um banco de dados simples para o projeto do curso de Desenvolvimento Web da Resilia. 
 
 ## Projeto
 Foi passado que tinhamos que criar um banco de dados para o curso Resília, depois responder perguntas sobre quais entidades existem e inserir registros.
